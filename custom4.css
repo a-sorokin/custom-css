@@ -1,0 +1,20 @@
+:root {
+    --white-color: #abc69c;
+    --primary-color: #2a348f;
+    --red-color: #ff4d4d;
+    --dark-red-color: #e04f5f;
+    --orange-color: #ff9525;
+    --gray-color: #cacce3;
+    --light-grey-color: #f1f3f9;
+    --success-color: #38cec6;
+    --section-shadow-color: rgba(0, 0, 0, 0.08);
+    --lang-selector-shadow-color: rgba(0, 0, 0, 0.3);
+    --bullet-shadow-color: #dedede;
+    --step-mobile: #d9deeb;
+    --facebook-color: #3b5998;
+    --google-color: #dd4b39;
+    --textarea-background-color: rgba(0, 0, 0, 0.02);
+    --continue-gray: #d9dfe2;
+    --continue-vaiolet: #4b55a5;
+    --green-color: #6ace8a;
+}
